@@ -9,7 +9,7 @@ from blessings import Terminal
 # ENVIRONMENT
 table_size = 21
 game_speed = 0.1
-simulations = 100
+simulations = 3000
 player_size = 3
 
 
